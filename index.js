@@ -1,7 +1,6 @@
 
-
-
-const contractAddress ='ct_2qcqwwXmfLmZ3a18yvnv4p8ta9HGoyHRjCDvPMvyAqkuMRwzPD';
+//const contractAddress ='ct_2qcqwwXmfLmZ3a18yvnv4p8ta9HGoyHRjCDvPMvyAqkuMRwzPD';
+const contractAddress = 'ct_25qpLuCMTPKgK8mKzTrYLRqJzdnY9xjJ6Sr2eee9mf9ztm5enx';
 var client = null;
 var memeArray = [];
 var memesLength = 0;
